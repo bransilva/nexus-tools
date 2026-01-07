@@ -1,5 +1,5 @@
 #!/bin/bash
-#CREADOR Henry Chumo | 06/06/2022
+#CREADOR NEXUS | 06/06/2022
 #REFACTORY | 16/10/2022
 #Alias : @NEXUS-MANAGER
 # -*- ENCODING: UTF-8 -*-
